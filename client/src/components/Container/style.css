@@ -1,15 +1,15 @@
-.Container {
+.Container{
     box-shadow: 5px 5px 7px 0px rgba(20, 12, 12, 0.61);
     background-image: url("https://cdn-v2.asla.org/uploadedImages/CMS/Shop/Bookstore/books.jpg");
     background-size: cover;
-    height: 300px;
+    height: 200px;
     background-position: center;
 }
 .search {
     padding: 15px;
     font-style: italic;
     font-size: 2rem;
-    border: 2px solid rgb(22, 11, 17);
+    border: 2px solid rgb(12, 4, 10);
     border-radius:  13px;
    
 }

@@ -3,7 +3,6 @@ import SavedList from "../SavedList/SavedList";
 
 class SavedList extends Component {
 
-
     render() {
         console.log("Props", this.props.bookState)
         return (

@@ -3,7 +3,7 @@ import './style.css';
 
 const Container = (props) => {
     return (
-        <div className="container">
+        <div className="Container">
             <form>
                 <div className="form-group">
                     <label htmlFor="search"><h2 className="search">Search for and save Books of Interest</h2></label>
