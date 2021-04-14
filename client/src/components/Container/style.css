@@ -9,7 +9,8 @@
     padding: 15px;
     font-style: italic;
     font-size: 2rem;
-    border: 2px solid rgb(12, 4, 10);
+    color: rgb(16, 177, 161);
+    border: 2px solid rgb(19, 3, 16);
     border-radius:  13px;
    
 }
@@ -21,6 +22,7 @@
  input {
     padding: 10px;
     margin-left: 25%;
+    
 }
 button{
     padding: 10px;

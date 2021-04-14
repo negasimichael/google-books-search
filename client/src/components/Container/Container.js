@@ -6,7 +6,7 @@ const Container = (props) => {
         <div className="Container">
             <form>
                 <div className="form-group">
-                    <label htmlFor="search"><h2 className="search">Search for and save Books of Interest</h2></label>
+                    <label htmlFor="search"><h2 className="search">Search for books and save Books of Interest</h2></label>
                     <input
                         onChange={props.handleInputChange}
                         value={props.search}
