@@ -2,6 +2,7 @@ const db = require("../models");
 
 module.exports = {
   findAll: function (req, res) {
+    console.log('Nick')
     db.GoogleBooks
       .find({})
       .sort({ date: -1 })

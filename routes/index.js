@@ -5,7 +5,7 @@ const apiRoutes = require("./api/books");
 // API Routes
 router.use("/api", apiRoutes);
 
-// If no API routes are hit, send the React app
+// If there is no API routes hit, send the React app
 router.use(function (req, res) {
   res.sendFile(path.join(__dirname, "../client/build/index.html"));
 });

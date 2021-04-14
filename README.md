@@ -35,9 +35,8 @@ The developer is authorizing a free installation by cloning from the code [negas
  
    ## Screenshot Image
    
-![google-books-search](../../utils/Images/google-books1.png)
+![google-books-search](./client/public/Image/google-books1.png)
 
-![google-books-search](#)
 
 ## Contribution
   [negasimichael](https://github.com/negasimichael/google-books-search) is the only contrubuter of this project .
